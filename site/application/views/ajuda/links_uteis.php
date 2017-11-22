@@ -1,0 +1,80 @@
+
+<div class="container has-header">
+    <div class="page-header center">
+        <h1 class="center main-title inline">Ajuda <br> <small>Links úteis</small></h1>
+    </div>
+
+    <div class="row" align="center">
+        <div class="button-wrapper col-md-12">
+            <div class="row">
+
+<h1 class="documentFirstHeading">Links do Minist&eacute;rio das Rela&ccedil;&otilde;es Exteriores</h1><br>
+<p>Portal oficial do Itamaraty<br /><a href="http://www.itamaraty.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.itamaraty.gov.br/&nbsp;</a></p>
+<p><br />Blog do Itamaraty&nbsp;<br /><a href="http://blog.itamaraty.gov.br/">http://blog.itamaraty.gov.br/</a>&nbsp;<br /><br />Brasileiros no Mundo&nbsp;<br /><a href="http://www.brasileirosnomundo.itamaraty.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.brasileirosnomundo.itamaraty.gov.br/&nbsp;</a><br /><br /><br />Departamento Cultural<br /><a href="http://dc.itamaraty.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://dc.itamaraty.gov.br/&nbsp;</a><br /><br /><br />Divis&atilde;o de Temas Educacionais<br /><a href="http://www.dce.mre.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.dce.mre.gov.br</a><br /><br /><br />Instituto Rio Branco (IRBr)<br /><span class="link-external"><a href="http://www.irbr.mre.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.irbr.mre.gov.br/</a></span><br /><br /><br />Invest &amp; Export Brazil<br /><a href="http://www.investexportbrasil.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.investexportbrasil.gov.br/&nbsp;</a><br /><br /><br />Portal do Retorno<br /><a href="http://retorno.itamaraty.gov.br/pt-br/" target="_blank" rel="alternate noopener noreferrer">http://retorno.itamaraty.gov.br/pt-br/&nbsp;</a><br /><br /><br />Rede Brasil Cultural<br /><a href="http://redebrasilcultural.itamaraty.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://redebrasilcultural.itamaraty.gov.br/&nbsp;</a><br /><br /><br /></p>
+<h1 class="documentFirstHeading">Links oficiais do Governo brasileiro</h1>
+<p><strong><br />Governo Brasileiro</strong><br /><span class="link-external">&nbsp;<a href="http://www.brasil.gov.br/" target="_blank" rel="alternate noopener noreferrer">Rep&uacute;blica Federativa do Brasil</a></span><br /><br /><br /><br /><strong>Poder Executivo<br /><br /></strong><span class="link-external">&nbsp;<a href="http://www.presidencia.gov.br/" target="_blank" rel="alternate noopener noreferrer">Presid&ecirc;ncia da Rep&uacute;blica</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.mpf.mp.br/pgr/" target="_blank" rel="alternate noopener noreferrer">Procuradoria Geral da Rep&uacute;blica</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.mc.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio das Comunica&ccedil;&otilde;es</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.cultura.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio da Cultura</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://portal.mec.gov.br/default.htm" target="_blank" rel="noopener noreferrer">Minist&eacute;rio da Educa&ccedil;&atilde;o</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.mma.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio do Meio Ambiente</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.mre.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio das Rela&ccedil;&otilde;es Exteriores</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.fazenda.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio da Fazenda</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://portalsaude.saude.gov.br/" target="_blank" rel="alternate noopener noreferrer">Minist&eacute;rio da Sa&uacute;de</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.desenvolvimento.gov.br/sitio/inicial/index.php" target="_blank" rel="noopener noreferrer">Minist&eacute;rio do Desenvolvimento, Ind&uacute;stria e Com&eacute;rcio Exterior</a></span><br /><br /><span class="link-external">&nbsp;<a href="https://www.justica.gov.br/" target="_blank" rel="alternate noopener noreferrer">Minist&eacute;rio da Justi&ccedil;a</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.mte.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio do Trabalho e Previd&ecirc;ncia Social</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.mme.gov.br/" target="_blank" rel="alternate noopener noreferrer">Minist&eacute;rio de Minas e Energia</a></span><br /><br /><span class="link-https">&nbsp;<a href="http://www.defesa.gov.br/" target="_blank" rel="alternate noopener noreferrer">Minist&eacute;rio da Defesa</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.planejamento.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio do Planejamento, Or&ccedil;amento e Gest&atilde;o</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www.mct.gov.br/" target="_blank" rel="noopener noreferrer">Minist&eacute;rio da Ci&ecirc;ncia e Tecnologia</a></span><br /><br /><br /><br /><br /><br /><strong>Poder Legislativo</strong></p>
+<p><strong><br /></strong><span class="link-external">&nbsp;<a href="http://www.senado.gov.br/" target="_blank" rel="alternate noopener noreferrer">Senado Federal</a></span><br /><br /><span class="link-external">&nbsp;<a href="http://www2.camara.gov.br/" target="_blank" rel="alternate noopener noreferrer">C&acirc;mara dos Deputados<br /><br /><br /></a></span></p>
+<h1 class="documentFirstHeading">Links oficiais de Governos estrangeiros</h1>
+<p>Argentina: Minist&eacute;rio de Relaciones Exteriores y Culto&nbsp;<br /><a href="https://www.mrecic.gov.ar/es/asistencia-consular" target="_blank" rel="alternate noopener noreferrer">https://www.mrecic.gov.ar/es/asistencia-consular</a></p>
+<p><br />Australia: Smart Traveller&nbsp;<br /><a href="https://smartraveller.gov.au/" target="_blank" rel="alternate noopener noreferrer">https://smartraveller.gov.au/</a></p>
+<p><br /><br />Bol&iacute;via: Ministerio de Relaciones Exteriores&nbsp;<br /><a href="http://www.cancilleria.gob.bo/webmre/" target="_blank" rel="alternate noopener noreferrer">http://www.cancilleria.gob.bo/webmre/</a><br /><br /><br />Canada: Travalling abroad&nbsp;<br /><a href="http://travel.gc.ca/travelling" target="_blank" rel="alternate noopener noreferrer">http://travel.gc.ca/travelling</a></p>
+<p><br />Chile: Ministerio de Relaciones Exteriores&nbsp;<br /><a href="http://www.minrel.gov.cl/" target="_blank" rel="alternate noopener noreferrer">http://www.minrel.gov.cl/</a><br /><br />Estados Unidos: Bureau of Consular Affairs&nbsp;<br /><a href="https://travel.state.gov/content/travel/en.html" target="_blank" rel="alternate noopener noreferrer">https://travel.state.gov/content/travel/en.html</a></p>
+<p><br />Fran&ccedil;a: Quai d"Orsay&nbsp;<br /><a href="http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/" target="_blank" rel="alternate noopener noreferrer">http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/</a><a href="http://www.diplomatie.gouv.fr/fr/services-aux-citoyens/" target="_blank" rel="alternate noopener noreferrer"><br /><br /></a>It&aacute;lia: Farnesina&nbsp;<br /><a href="http://www.esteri.it/mae/it/" target="_blank" rel="alternate noopener noreferrer">http://www.esteri.it/mae/it/</a></p>
+<p><br />Mercosul&nbsp;<br /><a href="http://www.mercosur.int/" target="_blank" rel="alternate noopener noreferrer">http://www.mercosur.int/</a></p>
+<p><br />Paraguai: Ministerio de Relaciones Exteriores&nbsp;<br /><a href="http://www.mre.gov.py/v2" target="_blank" rel="alternate noopener noreferrer">http://www.mre.gov.py/v2</a></p>
+<p>&nbsp;<br />Peru: Ministerio de Relaciones Exteriores&nbsp;<br /><a href="http://www.rree.gob.pe/SitePages/home.aspx" target="_blank" rel="alternate noopener noreferrer">http://www.rree.gob.pe/SitePages/home.aspx</a></p>
+<p><br />Portugal: Portal das Comunidades Portuguesas no Exterior&nbsp;<br /><a href="https://www.portaldascomunidades.mne.pt/pt/" target="_blank" rel="alternate noopener noreferrer">https://www.portaldascomunidades.mne.pt/pt/</a><a href="https://www.portaldascomunidades.mne.pt/pt/quem-somos/direcao-geral-dos-assuntos-consulares-e-das-comunidades-portuguesas/servicos-de-atendimento-ao-publico"><br /></a></p>
+<p>Reino Unido: Foreign &amp; Commonwealth Office&nbsp;<br /><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-office" target="_blank" rel="alternate noopener noreferrer">https://www.gov.uk/government/organisations/foreign-commonwealth-office</a><br /><br /><br />Uni&atilde;o Europeia<br /><a href="http://eur-lex.europa.eu/summary/chapter/justice_freedom_security.html?root_default=SUM_1_CODED%3D23,SUM_2_CODED%3D2301&amp;locale=pt" rel="alternate">http://eur-lex.europa.eu/summary/chapter/justice_freedom_security.html?root_default=SUM_1_CODED%3D23,SUM_2_CODED%3D2301&amp;locale=pt</a></p>
+<p>&nbsp;</p>
+<p>Uruguai: Ministerio de Relaciones Exteriores<br /><a href="http://www.mrree.gub.uy/" rel="alternate">http://www.mrree.gub.uy/</a><a href="http://www.mrree.gub.uy/" target="_blank" rel="alternate noopener noreferrer"><br /></a></p>
+<p>Venezuela: Ministerio del Poder Popular para Relaciones Exteriores<br /><a href="http://www.mre.gov.ve/" target="_blank" rel="alternate noopener noreferrer">http://www.mre.gov.ve/</a><br /><br /><br /><br /></p>
+<div id="navigation" class="span3">
+<section id="navigation-section">
+</section>
+</div>
+<div id="content" class="span9 internas">
+<section id="content-section">
+<div class="row-fluid">
+<div class="item-page">
+<h1 class="documentFirstHeading">Links de entidades</h1>
+<p>ABD - Associa&ccedil;&atilde;o Brasileira de Dekasseguis<br /><a href="http://www.abdnet.org.br/" target="_blank" rel="alternate noopener noreferrer">http://www.abdnet.org.br/</a><a href="http://www.abdnet.org.br/" target="_blank" rel="noopener noreferrer"><br /><br /></a></p>
+<p>Associa&ccedil;&atilde;o dos Not&aacute;rios e Registradores do Brasil ( ANOREG-BR )<br /><a href="http://www.anoreg.org.br/" target="_blank" rel="alternate noopener noreferrer">http://www.anoreg.org.br/</a></p>
+<p>&nbsp;</p>
+<p>CAPES - Coordena&ccedil;&atilde;o de Aperfei&ccedil;oamento de Pessoal de N&iacute;vel Superior&nbsp;<br /><a href="http://www.capes.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.capes.gov.br</a></p>
+<p><br />Cart&oacute;rios no Brasil<br />&nbsp;<a href="http://www.mj.gov.br/cartorio/index.htm" target="_blank" rel="alternate noopener noreferrer">http://www.mj.gov.br/cartorio/index.htm</a></p>
+<p>&nbsp;</p>
+<p>Centro de Informa&ccedil;&atilde;o em Sa&uacute;de para Viajantes<br /><a href="http://www.cives.ufrj.br/" target="_blank" rel="alternate noopener noreferrer">www.cives.ufrj.br/</a></p>
+<p><br />CNPq - Conselho Nacional de Desenvolvimento Cient&iacute;fico e Tecnol&oacute;gico<br /><a href="http://www.cnpq.br/" target="_blank" rel="alternate noopener noreferrer">http://www.cnpq.br</a></p>
+<p><br />CIGA-Brasil - Associa&ccedil;&atilde;o sem fins lucrativos sediada na Su&iacute;&ccedil;a<br /><a href="http://www.cigabrasil.ch/" target="_blank" rel="alternate noopener noreferrer">http://www.cigabrasil.ch/</a></p>
+<p><br />Correios&nbsp;<br /><a href="http://www.correios.com.br/servicos/cep/cep_loc_log.cfm" target="_blank" rel="alternate noopener noreferrer">http://www.correios.com.br/servicos/cep/cep_loc_log.cfm</a></p>
+<p><br />Departamento Nacional de Tr&acirc;nsito (DENATRAN)&nbsp;<br /><a href="http://www.denatran.gov.br/informativos/20070611_permissao_internacional.htm" target="_blank" rel="alternate noopener noreferrer">http://www.denatran.gov.br/informativos/20070611_permissao_internacional.htm</a></p>
+<p><br />EMBRATEL -&nbsp;Plano Brasil Direto<br /><a href="http://www.embratel.com.br/Embratel02/cda/portal/0,1446,RE_P_1084,00.html" target="_blank" rel="alternate noopener noreferrer">http://www.embratel.com.br/Embratel02/cda/portal/0,1446,RE_P_1084,00.html</a></p>
+<p>&nbsp;</p>
+<p>IBGE - Instituto Brasileiro Geogr&aacute;fico e Estat&iacute;stico - estat&iacute;sticas sobre outros pa&iacute;ses&nbsp;<br /><a href="http://www.ibge.gov.br/paisesat" target="_blank" rel="alternate noopener noreferrer">http://www.ibge.gov.br/paisesat</a><a href="http://www.ibge.gov.br/paisesat" target="_blank" rel="noopener noreferrer"><br /><br /></a></p>
+<p>Informa&ccedil;&otilde;es sobre a comunidade brasileira nos EUA<br /><a href="http://www.imigrar.com/" target="_blank" rel="alternate noopener noreferrer">http://www.imigrar.com/</a><a href="http://www.imigrar.com/" target="_blank" rel="noopener noreferrer"><br /></a></p>
+<p><br />Lei do Estrangeiro<br /><a href="http://www.planalto.gov.br/ccivil_03/Leis/L6815.htm" target="_blank" rel="alternate noopener noreferrer">http://www.planalto.gov.br/ccivil_03/Leis/L6815.htm</a></p>
+<p><br />Migration Information Source - site com dados internacionais sobre imigra&ccedil;&atilde;o&nbsp;<br /><a href="http://www.migrationinformation.org/Profiles/display.cfm?ID=311" target="_blank" rel="alternate noopener noreferrer">http://www.migrationinformation.org/Profiles/display.cfm?ID=311</a></p>
+<p><br />Pol&iacute;cia Federal<br /><a href="http://www.dpf.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.dpf.gov.br</a><a href="http://www.dpf.gov.br/" target="_blank" rel="noopener noreferrer"><br /></a>&nbsp;</p>
+<p><span class="link-external">Receita Federal&nbsp;<br /><a href="http://www.receita.fazenda.gov.br/GC/aduana/Guia/default.htm" target="_blank" rel="alternate noopener noreferrer">http://www.receita.fazenda.gov.br/GC/aduana/Guia/default.htm</a></span></p>
+<p>&nbsp;</p>
+<p>Servi&ccedil;o militar&nbsp;<br /><a href="http://dsm.dgp.eb.mil.br/" target="_blank" rel="alternate noopener noreferrer">http://dsm.dgp.eb.mil.br/</a></p>
+<p>&nbsp;</p>
+<p>TERRA Magazine - Dicas para evitar transtornos em viagens internacionais<br /><a href="http://terramagazine.terra.com.br/interna/0,,OI1693737-EI6594,00.html" target="_blank" rel="alternate noopener noreferrer">http://terramagazine.terra.com.br/interna/0,,OI1693737-EI6594,00.html</a></p>
+<p><br />TERRA - Como contratar Seguro de Sa&uacute;de Internacional<br /><a href="http://turismo.terra.com.br/ecoturismo/interna/0,,OI140403-EI1780,00.html" target="_blank" rel="noopener noreferrer">http://turismo.terra.com.br/ecoturismo/interna/0,,OI140403-EI1780,00.html</a></p>
+<p>&nbsp;</p>
+<p>Tribunal Superior Eleitoral<br /><a href="http://www.tse.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.tse.gov.br</a></p>
+<p>&nbsp;</p>
+<p><span class="link-external">Turismo no Brasil&nbsp;<br /><a href="http://www.turismo.gov.br/" target="_blank" rel="alternate noopener noreferrer">http://www.turismo.gov.br</a></span></p>
+<p>&nbsp;</p>
+<p>Universia Brasil - Estude no Exterior&nbsp;<br /><a href="http://www.universiabrasil.net/estudenoexterior/" target="_blank" rel="alternate noopener noreferrer">http://www.universiabrasil.net/estudenoexterior/</a></p>
+<p>&nbsp;</p>
+<p><span class="link-external">Universidade de S&atilde;o Paulo - apoio psicol&oacute;gico gratuito a emigrantes<br /><a href="http://www.ip.usp.br/laboratorios/intercult/index.htm" target="_blank" rel="alternate noopener noreferrer">http://www.ip.usp.br/laboratorios/intercult/index.htm</a></span><br /><br /><br /></p>
+</div>
+</div>
+</section>
+</div>
+<p><span class="link-external"><a href="http://www2.camara.gov.br/" target="_blank" rel="alternate noopener noreferrer">&nbsp;</a></span></p>
+			</div>
+		</div>
+	</div>
+</div>

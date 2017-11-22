@@ -1,0 +1,93 @@
+body {
+}
+
+.has-header {
+    background: linear-gradient( 0deg, rgba( 0, 0, 0, 0.6 ), rgba( 0,0, 0, 0.6 ) ), url( ../img/wallpaper.jpg );
+    background-size: cover;
+    padding: 50px;
+}
+
+h2.welcome {
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.button-wrapper {
+    padding: 20px;
+    margin-top: 70px;
+    background: rgba( 255, 255, 255, 0.6 );
+}
+
+.main-title {
+    font-weight: bold;
+    color: #fff;
+    font-size: 12vh;
+    max-width: 800px;
+}
+
+.funfacts {
+  background-color: #555;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 100px 0;
+}
+.funfacts .funfact {
+  font-family: "Oswald";
+  text-align: center;
+  color: #f0f0f0;
+}
+.funfacts .funfact .st-funfact-icon {
+  font-size: 42px;
+  line-height: 90px;
+}
+.funfacts .funfact .st-funfact-counter {
+  font-size: 48px;
+  line-height: 68px;
+  letter-spacing: 3px;
+}
+.funfacts .funfact .funfact-title {
+  font-size: 20px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+.funfacts .funfact:after {
+  content: '';
+  display: block;
+  width: 35px;
+  height: 2px;
+  background-color: #4ecdc4;
+  margin: 0 auto;
+}
+
+.contact {
+  padding: 120px 0;
+  background-color: #fff
+}
+.contact form input,
+.contact form textarea {
+  margin-bottom: 30px;
+}
+input[type="text"].formFieldError,
+input[type="email"].formFieldError,
+textarea.formFieldError {
+  border-color: #e34444 !important;
+}
+
+.contact .form-control {
+  border-radius: 2px !important;
+  padding: 15px 20px !important;
+  height: auto;
+  border-color: #e5e5e5 !important;
+  box-shadow: none !important;
+}
+.contact .form-control:focus {
+  border-color: #606c88 !important;
+}
+
+@media only screen and ( max-width: 770px ) {
+   .main-title {
+        font-size: 50px;
+    }
+}

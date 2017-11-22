@@ -1,0 +1,86 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Varela Round', sans-serif;
+}
+
+body {
+    background: #eeeeee;
+}
+
+hr {
+    border-color: rgba(51,51,51,.2);
+}
+
+.has-header {
+    margin-top: 50px;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.btn.btn-default:hover {
+    color: #fff;
+}
+
+
+.btn.btn-secundary {
+    color: #00b8a9;
+    background: #fff;
+}
+
+.btn.btn-secundary:hover {
+    color: #00b8a9;
+    background: #393e46;
+}
+
+.btn.btn-facebook {
+    color: #fff!important;
+}
+
+.btn.btn-facebook:hover {
+    color: #fff!important;
+}
+
+#dashboard-container {
+    background: #fff; 
+    min-height: 500px; 
+    margin-top: 50px; 
+    border: 1px solid rgba(51,51,51,.2);
+    padding: 0 30px 30px 30px;
+}
+
+.padding-bottom-30 {
+    padding-bottom: 30px;
+}
+
+.padding-bottom-50 {
+    padding-bottom: 50px;
+}
+
+.padding-bottom-70 {
+    padding-bottom: 70px;
+}
+.padding-bottom-100 {
+    padding-bottom: 100px;
+}
+
+#chat-container {
+    margin-top: 50px;
+    border: 1px solid rgba(51,51,51,.3);
+    display: block;
+}
+
+#conversaMensagem {
+    padding-left: ;
+}

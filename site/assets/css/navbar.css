@@ -1,0 +1,36 @@
+/* .navbar {
+    background: rgb(51,51,51); Old browsers
+    background: -moz-linear-gradient(left,  rgba(51,51,51,1) 0%, rgba(86,86,86,1) 100%); FF3.6-15
+    background: -webkit-linear-gradient(left,  rgba(51,51,51,1) 0%,rgba(86,86,86,1) 100%); Chrome10-25,Safari5.1-6
+    background: linear-gradient(to right,  rgba(51,51,51,1) 0%,rgba(86,86,86,1) 100%); W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#333333', endColorstr='#565656',GradientType=1 ); IE6-9
+    border-color: #333;
+}
+
+.nav li {
+    padding: 5px;
+}
+
+.nav li a {
+    color: #fff !important;
+    font-weight: bold;
+    padding: 10px 20px;   
+    border-radius: 5px;
+    background: #555;
+}
+
+.nav .nav-button {
+    margin-top: 3px;
+} */
+
+.navbar-right .dropdown-menu {
+    min-width: 200px;
+}
+
+.navbar-right .dropdown-menu li {
+    border-bottom: 1px solid rgba(51,51,51,.2);
+}
+
+.navbar-right .dropdown-menu li a{
+    padding: 15px;
+}
