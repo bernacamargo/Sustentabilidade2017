@@ -27,8 +27,8 @@ else
     </div>
     <div class="col-md-5">
         <h4 class="text-primary">
-            <b><?php echo $profissional['Nome']; ?></b><span class="text-normal">/Cod. <?php echo $profissional['CodUsuario']?></span> <br>
-            <small class="text-primary">
+            <b><?php echo $profissional['Nome']; ?></b><span class="text-normal"><small>/Cod. <?php echo $profissional['CodUsuario']?></small></span> <br>
+            <small>
                 <?php echo $profissional['Idade'] ?> anos - <?php echo $profissional['Experiencia'] ?> anos de experiência <br>
                 País de origem: <b><?php echo $profissional['Pais_origem'] ?></b> <br>
             <?PHP 

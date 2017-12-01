@@ -36,6 +36,7 @@ else
             <?php $template->link( '<i class="fa fa-drivers-license"></i>&ensp;Meus dados', 'meus_dados', 'meus_dados' ); ?>
             <?php $template->link( '<i class="fa fa-star" style="color: #555;"></i>&ensp;Favoritos', 'profissionais/favoritos', 'favoritos' ); ?>
             <?php $template->link( '<i class="fa fa-bookmark"></i>&ensp;Meus anúncios', 'anuncios/meus_anuncios', 'meus_anuncios' ); ?>            
+            <?php $template->link( '<i class="fa fa-plus"></i>&ensp;Criar Anúncio', 'anuncios/criar_anuncio', 'criar_anuncio' ); ?>            
             <?php $template->link( '<i class="fa fa-plus"></i>&ensp;Criar currículo', 'meus_dados/curriculo', 'curriculo' ); ?>            
             <?php $template->link( '<i class="fa fa-comments-o"></i>&ensp;Mensagens', 'conversas', 'conversas' ); ?>           
             <?php $template->link( '<i class="fa fa-lock"></i>&ensp;Alterar senha', 'meus_dados/editar_perfil/senha', 'senha' ); ?>                        

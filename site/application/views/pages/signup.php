@@ -80,7 +80,7 @@
                     <h4>Dados pessoais</h4>
 <hr>
                     <div class="form-group">
-                        <label for="Nome">Nome</label>
+                        <label for="Nome">Nome completo</label>
                         <input  type="text" 
                                 value="<?php echo set_value('Nome')?>" 
                                 class="form-control" 
@@ -134,19 +134,6 @@
                     <h4>Dados de localização</h4>
 <hr>
                     <div class="form-group">
-                        <label for="Estado">País de Origem</label>
-                        <select class="form-control" name="pais" id="pais">
-                            <option value="">-- Selecione --</option>
-                            <?php foreach( $template->item('paises') as $pais ): ?>
-                            <option title="<?php echo $pais['paisName'] ?>" value="<?php echo $pais['paisId']; ?>">
-                                <?php echo $pais['paisNome']; ?>
-                            </option>
-                            <?php endforeach; ?>
-                        </select>
-
-                    </div>
-
-                    <div class="form-group">
                         <label for="Estado">País Atual</label>
                         <select class="form-control" name="paisAtual" id="paisAtual" readonly>
                             <option value="">BRASIL</option>
@@ -192,12 +179,12 @@
                                 class="form-control" 
                                 id="endereco" 
                                 name="Endereco" 
-                                placeholder="Av. José Gomes, 96">
+                                placeholder="">
                         <p class="help-block">
                             Esse campo será preenchido automaticamente ao digitar o CEP
                         </p>
                     </div><!-- Endereço -->
-
+<br>
                     <div class="form-group">
                         <label for="Endereco">Foto de perfil</label>
                         <input type="file" name="Foto" id="Foto">
@@ -207,7 +194,7 @@
                         <input type="hidden" id="Longitude" name="Longitude">
                         <input type="hidden" id="Latitude" name="Latitude">
                     </div>
-                    
+                    <br>
                     <button class="btn btn-block btn-lg btn-primary">Criar conta</button><!-- submit -->
 
                 <?PHP echo form_close(); ?><!-- formulario de usuário -->
@@ -270,15 +257,15 @@
                     <?PHP endif; ?><!-- erros de validacao -->
 
                     <h4>Dados pessoais</h4>
-
+<hr>
                     <div class="form-group">
-                        <label for="Nome">Nome</label>
+                        <label for="Nome">Nome completo</label>
                         <input  type="text" 
                                 value="<?php echo set_value('Nome')?>" 
                                 class="form-control" 
                                 id="Nome" 
                                 name="Nome" 
-                                placeholder="João Pereira">
+                                placeholder="João Pereira da Silva">
                     </div><!-- nome -->
 
                     <div class="form-group">
@@ -322,22 +309,9 @@
                     </div><!-- senha -->
 
 
-
+<br>
                     <h4>Dados de localização</h4>
-
-                    <div class="form-group">
-                        <label for="Estado">País de Origem</label>
-                        <select class="form-control" name="pais" id="pais">
-                            <option value="">-- Selecione --</option>
-                            <?php foreach( $template->item('paises') as $pais ): ?>
-                            <option title="<?php echo $pais['paisName'] ?>" value="<?php echo $pais['paisId']; ?>">
-                                <?php echo $pais['paisNome']; ?>
-                            </option>
-                            <?php endforeach; ?>
-                        </select>
-
-                    </div>
-
+<hr>
                     <div class="form-group">
                         <label for="Estado">País Atual</label>
                         <select class="form-control" name="paisAtual" id="paisAtual" readonly>
@@ -384,9 +358,12 @@
                                 class="form-control" 
                                 id="endereco" 
                                 name="Endereco" 
-                                placeholder="Av. José Gomes, 96">
+                                placeholder="">
                     </div><!-- Endereço -->
-
+                    <p class="help-block">
+                        Esse campo será preenchido automaticamente ao digitar o CEP
+                    </p>
+<br>
                     <div class="form-group">
                         <label for="Endereco">Foto de perfil</label>
                         <input type="file" name="Foto" id="Foto">
@@ -396,7 +373,7 @@
                         <input type="hidden" id="Longitude" name="Longitude">
                         <input type="hidden" id="Latitude" name="Latitude">
                     </div>
-                    
+                    <br>
                     <button class="btn btn-block btn-lg btn-primary">Criar conta</button><!-- submit -->
 
                 <?PHP echo form_close(); ?><!-- formulario de usuário -->

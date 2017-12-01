@@ -267,7 +267,7 @@ class Anuncios extends MY_Controller {
 
 		// seta a pagina
 		$this->template->set( 'container', 'criar_anuncio' );
-		$this->template->render( 'dashboard' );
+		$this->template->render( 'minha_conta' );
 	}
 
 	// pagina do mapa

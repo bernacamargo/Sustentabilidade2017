@@ -128,7 +128,7 @@ $total = $template->item('total');
  ?>
 
 <!-- Existe mais de uma pagina -->
-<?php if($total > 1): ?>
+<?php if($total >= 1): ?>
 
 <div class="container-fluid center">
     <ul class="pagination center">

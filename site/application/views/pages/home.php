@@ -12,7 +12,7 @@
     <div id="slider" data-section="home">
         <div class="owl-carousel owl-carousel-fullwidth">
             
-            <div class="item" style="background-image:url(<?php echo site_url('assets/img/wall3.jpg')?>); background-position: center right;">
+            <div class="item" style="background-image:url(<?php echo site_url('assets/img/wall1.jpg')?>); background-position: center center;">
                 <div class="overlay"></div>
                 <div class="container" style="position: relative;">
                     <div class="row">
@@ -29,7 +29,7 @@
                                             $link_profissionais = site_url('signup/contratante');
                                         }
                                      ?>
-                                    <h1 class="fh5co-lead to-animate">A solução que você procura está aqui</h1>
+                                    <h1 class="fh5co-lead to-animate">Work for All</h1>
                                     <h2 class="fh5co-sub-lead to-animate">O que você precisa?</h3>
                                     <p class="to-animate-2">
                                         <a href="<?php echo $link_anuncios ?>" class="btn btn-primary btn-lg">Encontrar trabalho</a>
@@ -44,7 +44,7 @@
             </div>
 
             <!-- You may change the background color here.  -->
-            <div class="item" style="background-image:url(<?php echo site_url('assets/img/wall1.jpg')?>); ">
+            <div class="item" style="background-image:url(<?php echo site_url('assets/img/wall6.jpg')?>); ">
                 <div class="overlay"></div>
                 <div class="container" style="position: relative;">
                     <div class="row">
@@ -78,9 +78,10 @@
                     <h2 class="to-animate">Sobre nós</h2>
                     <div class="row">
                         <div class="col-md-12 to-animate text-justify">
-                            <h4>&ensp;&ensp;&ensp;&ensp;De características neutras, posição geográfica afastada de grandes centros de conflito e fama hospitaleira conhecida mundialmente, o Brasil é um dos países que mais recebe refugiados no globo. Atualmente habitam no país mais de 10 mil refugiados e outros 30 mil estão em lista de espera. Em Sorocaba, Brasil, esse fato se torna mais visível com os Haitianos. Após o terremoto que atingiu o Haiti, em 2010, muitos habitantes se encontraram em condições precárias de vida, o que culminou em um movimento migratório para países vizinhos.Hoje a cidade já conta com pequenas comunidades haitianas e muitos problemas sofridos, dentre eles, a dificuldade em encontrar emprego.
-                                <br><br>
-                                &ensp;&ensp;&ensp;&ensp;Tendo em vista essa situação foi que surge a ideia de criar uma plataforma para ajudar a aproximar essas pessoas do mercado de trabalho.
+                            <h4>&ensp;&ensp;&ensp;&ensp;Pensado após analisar a situação vivida por refugiados haitianos na cidade de Sorocaba, foi criado em 2017 o site “Work for All”, uma ferramenta pública que atua junto aos refugiados e outros estrangeiros vítimas de migrações forçadas no Brasil, a fim de reduzir os obstáculos que enfrentam para sua efetiva reintegração na sociedade.
+                                <br>
+                            &ensp;&ensp;&ensp;&ensp;Para colocar em prática sua missão, o site funciona junto ao ENACTUS, organização não governamental internacional e estudantil, dedicada a criar oportunidade de negócios através de projetos sociais, trabalhando internamente dentro das comunidades e abrigos de refugiados.
+
                             <h4>
                         </div>
                     </div>
@@ -121,7 +122,7 @@
                 </div> -->   
                 <div class="col-md-11 to-animate">
                     <p class="welcome center" style="text-align: justify;">
-                        <span style="color: #00b8a9; font-size: 15px"><b>Nossos Segmentos:</b></span>
+                        <span style="color: #00b8a9; font-size: 15px"><b>Categorias de serviços:</b></span>
                          Cuidador de Idosos, Babás, Domésticas, Faxineiras, Caseiros, Cozinherias, Dogwalkers, Governantas, Jardineiros, Motoristas e Piscineiros. 
                     </p>
                 </div>
